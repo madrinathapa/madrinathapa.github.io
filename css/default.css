@@ -803,6 +803,27 @@ properly.
 	text-align: center !important;
 }
 
+/*Skills css*/
+.skills .skills-group {
+    padding-top: 20px;
+}
 
+.skills .skills-group .skill {
+    margin: 0;
+    display: inline;
+}
 
+.skills .skills-group .skill>span {
+    border: 1px solid #11ABB0;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    margin: 0 3px 0 0;
+    padding: 0.4em 0.8em;
+}
+
+.bannerlink{
+   color:#F06000 !important;
+}
 
